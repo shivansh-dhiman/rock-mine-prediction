@@ -1,0 +1,1 @@
+A binary classification system that use machine learning techinique like logistic regression ,train test split and using a accuracy score to get the hightest accuracy in machine learning and used for generalization purpose for data inspection
